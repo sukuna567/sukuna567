@@ -1,5 +1,5 @@
 # ╰‿╯ About Me:
-🔭 I’m Exporing THings<br>🤝 Chilling And Beginner<br>🌱 Also code Workflows & AOSP<br>⚡ I Use Windows For sure
+🔭 I’m Exporing Things<br>🤝 Chilling And Beginner<br>🌱 Also code Workflows & AOSP<br>⚡ I Use Windows For sure
 
 ### 𒆜 I Am Working For MYSELF
 
