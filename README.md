@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=2000&color=240,0,0&center=true&vCenter=true&width=940&lines=Hey+╰‿╯+I'm+Rohit+Rajput;Sometimes+╰‿╯ ..Ꮪᴜ͢ᴋᴜɴᴀ..𒆜;Welcome+to+my+digital+Workspace+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
 # ╰‿╯ About Me:
 🔭 I’m Exporing Things<br>🤝 Chilling And Beginner<br>🌱 Learning Workflows & AOSP<br>⚡ I Use Windows For sure
 
